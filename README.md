@@ -16,17 +16,18 @@
 ├── 📂 Assignments
 ├── 📂 Tests
 ├── 📂 DevOps Learning Path
-├── 📂 Linux - Red Hat Certified System Administrator (RHCSA)/
-├── 📂 Server Administration/
-├── 📂 Introduction to DevOps/
-├── 📂 Version Control with Git/
-├── 📂 Ansible/
-├── 📂 Continuous Integration with Jenkins/
-├── 📂 Containerization Using Docker/
-├── 📂 AWS Cloud/
-├── 📂 Terraform Modules & Workspaces/
-├── 📂 Red Hat OpenShift Administration with Kubernetes/
-├── 📂 Monitoring/
+├── 📂 Topics
+    ├── 📂 Linux - Red Hat Certified System Administrator (RHCSA)/
+    ├── 📂 Server Administration/
+    ├── 📂 Introduction to DevOps/
+    ├── 📂 Version Control with Git/
+    ├── 📂 Ansible/
+    ├── 📂 Continuous Integration with Jenkins/
+    ├── 📂 Containerization Using Docker/
+    ├── 📂 AWS Cloud/
+    ├── 📂 Terraform Modules & Workspaces/
+    ├── 📂 Red Hat OpenShift Administration with Kubernetes/
+    ├── 📂 Monitoring/
 ```
 
 ---
